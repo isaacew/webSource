@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/isaacew/isaacew.github.io.git
+	branch = master
